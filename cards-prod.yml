@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "This is from prod configuration 'application_prod.yml' "
+  message: "This is from production configuration 'application_prod.yml' "
   contactDetails:
     name: "Marcellius_prod - prod config cards"
     email: "marcellius_prod@example.com"
