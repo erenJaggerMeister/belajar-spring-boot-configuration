@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "This is from prod configuration 'cards_prod.yml', we are working with webhook right now "
+  message: "This is from production configuration 'cards_prod.yml', we are working with webhook right now "
   contactDetails:
     name: "Marcellius_prod - prod config cards"
     email: "marcellius_prod@example.com"
